@@ -1,0 +1,13 @@
+manifestVersion: 1
+name: "@keeb/voicebox"
+version: "2026.03.24.1"
+description: "Voicebox TTS API for voice profile management and speech generation"
+repository: https://github.com/keeb/swamp-voicebox
+labels:
+  - voicebox
+  - tts
+  - speech
+  - audio
+  - voice
+models:
+  - voicebox.ts
