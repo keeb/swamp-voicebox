@@ -114,7 +114,7 @@ const GlobalArgsSchema = z.object({
 // --- Model ---
 
 export const model = {
-  type: "@voicebox/api",
+  type: "@keeb/voicebox",
   version: "2026.03.24.1",
   globalArguments: GlobalArgsSchema,
   files: {
